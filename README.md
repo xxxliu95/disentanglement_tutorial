@@ -34,7 +34,14 @@ Note that the **SDNet** model has also been implemented in PyTorch and has been 
 TBA
   
 ## Metrics
-TBA
+|     Metric     | Repository | Framework | Type | Original Implementation |
+|:------------:|:--------:|:------:|:------:|:------:|
+|BetaVAE metric|[https://github.com/NVlabs/MUNIT](https://github.com/NVlabs/MUNIT) |PyTorch| C-S |<ul><li>- [x] </li>   |
+|FactorVAE metric|[https://github.com/Prinsphield/ELEGANT](https://github.com/Prinsphield/ELEGANT)  |PyTorch| Vector |<ul><li>- [x] </li> |
+|MIG|[https://github.com/CompVis/unsupervised-disentangling](https://github.com/CompVis/unsupervised-disentangling)  |TensorFlow| C-S |<ul><li>- [x] </li> |
+|DCI|[https://github.com/jw9730/setvae](https://github.com/jw9730/setvae)  |PyTorch| Vector |<ul><li>- [x] </li> |
+|SAP|[https://github.com/jw9730/setvae](https://github.com/jw9730/setvae)  |PyTorch| Vector |<ul><li>- [x] </li> |
+|DC & IOB|[https://github.com/jw9730/setvae](https://github.com/jw9730/setvae)  |PyTorch| Vector |<ul><li>- [x] </li> |  
  
 ## Citation
   
